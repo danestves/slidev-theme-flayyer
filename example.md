@@ -11,14 +11,14 @@ floatingImage: "/floating.png"
       <img src="/logo.png" alt="Flayyer" class="w-[128px] dark:hidden" />
       <img src="/logo-dark.png" alt="Flayyer" class="w-[128px] mb-4 hidden dark:block" />
       <h2 class="text-[#111827] text-[30px] font-extrabold dark:text-gray-400">
-        <span class="text-primary dark:text-white">Automatización de imágenes</span> para marketing y redes sociales
+        <span class="text-primary dark:text-white">Image automation</span> for marketing and social networks
       </h2>
     </div>
   </div>
 
   <div>
-    <a href="https://flayyer.com/es" target="_blank" rel="noopener noreferrer">
-      https://flayyer.com/es
+    <a href="https://flayyer.com/" target="_blank" rel="noopener noreferrer">
+      https://flayyer.com/
     </a>
   </div>
 </div>
@@ -30,13 +30,12 @@ class: "py-24"
 ---
 
 <h2 class="text-[#111827] text-[30px] font-extrabold dark:text-gray-400">
-  <span class="text-primary dark:text-white">Problema 1:</span> Se malgastan horas laborales en tareas repetitivas de diseño
+  <span class="text-primary dark:text-white">Problem 1:</span> Labor hours are wasted on repetitive design tasks.
 </h2>
 
 <br />
 <br />
 
-- Las personas son mejores siendo creativos y las máquinas mejores en la repetición.
-- **40%** de los trabajadores sienten que pierden 1/4 de la semana en tareas repetitivas.
-- La consistencia visual es impotante y resulta costoso adaptarse a los cambios si se tienen miles de productos e imágenes.
-
+- People are better at being creative and machines are better at repetition.
+- **40%** of workers feel they waste 1/4 of their week on repetitive tasks.
+- Visual consistency is important and it is costly to adapt to change if you have thousands of products and images.
