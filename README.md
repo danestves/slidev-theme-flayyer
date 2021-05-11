@@ -2,19 +2,9 @@
 
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-flayyer?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-flayyer)
 
-A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
+A Flayyer theme for [Slidev](https://github.com/slidevjs/slidev).
 
-<!--
-run `npm run dev` to check out the slides for more details of how to start writing a theme
--->
-
-<!--
-put some screenshots here to demonstrate your theme,
--->
-
-<!-- 
-Live demo: [...]
--->
+This theme is inspired by the layout of Flayyer and the way that
 
 ## Install
 
@@ -29,12 +19,6 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 ## Layouts
 
 This theme provides the following layouts:
-
-> TODO:
-
-## Components
-
-This theme provides the following components:
 
 > TODO:
 
