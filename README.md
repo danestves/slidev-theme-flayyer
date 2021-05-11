@@ -4,7 +4,7 @@
 
 A Flayyer theme for [Slidev](https://github.com/slidevjs/slidev).
 
-This theme is inspired by the layout of Flayyer and the way that
+This theme is inspired by the layout of Flayyer and the way that it works.
 
 ## Install
 
