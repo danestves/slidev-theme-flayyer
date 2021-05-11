@@ -20,7 +20,21 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 
 This theme provides the following layouts:
 
-> TODO:
+### Title `intro`
+![intro](https://i.imgur.com/grKiGIK.png)
+The introductional template
+
+### Text & Image `text-image`
+![text-image](https://i.imgur.com/tAvcf5S.png)
+With support to show the image first trough props and more
+
+### Blank `blank`
+![blank](https://i.imgur.com/mj42LcL.png)
+Where you can put whatever you want
+
+### Cover `cover`
+![cover](https://i.imgur.com/41QWv3c.png)
+With centered content
 
 ## Contributing
 
