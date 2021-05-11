@@ -24,7 +24,7 @@ floatingImage: "/floating.png"
 </div>
 
 ---
-layout: text-image-right
+layout: text-image
 image: "/image-example-1.png"
 class: "py-24"
 ---
@@ -41,7 +41,7 @@ class: "py-24"
 - Visual consistency is important and it is costly to adapt to change if you have thousands of products and images.
 
 ---
-layout: text-image-right
+layout: text-image
 image: "/image-example-2.png"
 imageFirst: true
 contentCols: "col-span-7"
@@ -62,7 +62,7 @@ imageCols: "col-span-5"
 </div>
 
 ---
-layout: text-image-right
+layout: text-image
 image: "/floating.png"
 class: "py-16"
 contentCols: "col-span-6"
@@ -93,3 +93,37 @@ layout: blank
 </h2>
 
 <img src="/blank-example-1.png" alt="Flayyer" class="w-full mt-4 mx-auto max-w-[600px]" />
+
+---
+layout: text-image
+image: '/floating.png'
+class: 'gap-8 py-24'
+contentCols: "col-span-7"
+imageCols: "col-span-5"
+---
+
+<h2 class="text-[#111827] font-extrabold mb-4 dark:text-gray-400">
+  You can also use code
+</h2>
+
+```tsx
+import { FlayyerIO } from "@flayyer/flayyer";
+
+const flayyer = new FlayyerIO({
+  tenant: "flayyer",
+  deck: "demo",
+  template: "main",
+  variables: { title: "Create more engagement" }
+});
+
+<meta property="og:image" content="{flayyer.href()}" />
+<meta name="twitter:image" content="{flayyer.href()}" />
+```
+
+---
+layout: cover
+---
+
+<h2 class="text-[#111827] text-center font-extrabold dark:text-gray-400">
+  A blank slide to do whatever you want
+</h2>
