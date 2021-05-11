@@ -2,10 +2,10 @@
   <div class="slidev-layout relative grid grid-cols-12">
     <SvgBubles />
 
-    <div :class="[image ? 'col-span-8' : 'col-span-12']">
+    <div :class="[image ? contentCols : 'col-span-12']">
       <slot />
     </div>
-    <div v-if="image" class="col-span-4">
+    <div v-if="image" :class="[imageCols, imageFirst && 'order-first']">
       <img :src="image" alt="" />
     </div>
   </div>
@@ -20,5 +20,20 @@ const props = defineProps({
     type: String,
     required: false,
   },
+  imageFirst: {
+    type: Boolean,
+    required: false,
+    default: false
+  },
+  contentCols: {
+    type: String,
+    required: false,
+    default: 'col-span-8'
+  },
+  imageCols: {
+    type: String,
+    required: false,
+    default: 'col-span-4'
+  }
 });
 </script>
