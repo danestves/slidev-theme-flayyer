@@ -1,5 +1,5 @@
 <template>
-  <div class="relative grid grid-cols-12">
+  <div class="slidev-layout relative grid grid-cols-12">
     <SvgBubles />
 
     <div :class="[image ? 'col-span-8' : 'col-span-12']">
