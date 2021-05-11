@@ -1,3 +1,15 @@
+#### 1.0.2 (2021-05-11)
+
+##### Bug Fixes
+
+* **gitignore:**
+  *  typo for folder ([8392c3a7](https://github.com/danestves/slidev-theme-flayyer/commit/8392c3a7038a4f793635be22c2ebe4002e7d07bf))
+  *  add public for gitignore ([9e28682f](https://github.com/danestves/slidev-theme-flayyer/commit/9e28682f976bc8460dbdec09e34ae71704733cdd))
+
+##### Other Changes
+
+* danestves/slidev-theme-flayyer ([82c7dd49](https://github.com/danestves/slidev-theme-flayyer/commit/82c7dd499296ef166b2eddf068a76c37968115e4))
+
 #### 1.0.1 (2021-05-11)
 
 ##### Documentation Changes
