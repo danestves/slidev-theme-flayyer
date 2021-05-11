@@ -1,3 +1,9 @@
+#### 1.0.1 (2021-05-11)
+
+##### Documentation Changes
+
+* **info:**  adding more infor to README ([18873cbe](https://github.com/danestves/slidev-theme-flayyer/commit/18873cbe5fbba9b777af77e063f496af2275bfb1))
+
 ## 1.0.0 (2021-05-11)
 
 ##### New Features
