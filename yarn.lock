@@ -75,7 +75,7 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.12.tgz#431ec342a7195622f86688bbda82e3166ce8cb28"
   integrity sha512-6RglhutqrGFMO1MNUXp95RBuYIuc8wTnMAV5MUhLmjTOy78ncwOw7RgeQ/HeymkKXRhZd0s2DNrM1rL7unk3MQ==
 
-"@slidev/cli@^0.6.7":
+"@slidev/cli@0.6.7":
   version "0.6.7"
   resolved "https://registry.yarnpkg.com/@slidev/cli/-/cli-0.6.7.tgz#6b3c627728429663f3a9064c519cb6b1b782870d"
   integrity sha512-ieACuu1IV825rTSbi/Ocb/MwqRS/1iaJnJ15/4pesuZ4wU5cTPXw6cOPqhRPNcJ6Nqn/zzDfB//iti98TQupYw==
@@ -143,7 +143,7 @@
     "@slidev/types" "0.6.7"
     js-yaml "^4.1.0"
 
-"@slidev/theme-default@^0.6.7":
+"@slidev/theme-default@0.6.7":
   version "0.6.7"
   resolved "https://registry.yarnpkg.com/@slidev/theme-default/-/theme-default-0.6.7.tgz#52716e37fcfe65e079bb1cd250c95e3856d2f6e7"
   integrity sha512-uagGOadkBnnnu1fbJUs3w9iGohK+kLK/DMs+Gg6wB1TqY7WvJwZTsfaaG4NBQoFt8wLkgREUCOlXCugOxbIw9A==
@@ -157,7 +157,7 @@
   resolved "https://registry.yarnpkg.com/@slidev/types/-/types-0.6.7.tgz#245587a61414212d9847b6e625832ffcd94720b3"
   integrity sha512-nzonqDvnS3q0oWixCfkHLSfwS2SB2jTn2pM1HakR5pD98RMdinJK8dQVu/pH5XEwunqUBfxcowZHDLp+QZ2A2Q==
 
-"@types/node@*", "@types/node@^15.0.2":
+"@types/node@*", "@types/node@15.0.2":
   version "15.0.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-15.0.2.tgz#51e9c0920d1b45936ea04341aa3e2e58d339fb67"
   integrity sha512-p68+a+KoxpoB47015IeYZYRrdqMUcpbK8re/zpFB8Ld46LHC1lPEbp3EXgkEhAYEcPvjJF6ZO+869SQ0aH1dcA==
@@ -694,7 +694,7 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-generate-changelog@^1.8.0:
+generate-changelog@1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/generate-changelog/-/generate-changelog-1.8.0.tgz#1d788cdef5a13a649da7eb2a1f3b02674850e4a8"
   integrity sha512-msgpxeB75Ziyg3wGsZuPNl7c5RxChMKmYcAX5obnhUow90dBZW3nLic6nxGtst7Bpx453oS6zAIHcX7F3QVasw==
@@ -1116,7 +1116,7 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.3.tgz#465547f359ccc206d3c48e46a1bcb89bf7ee619d"
   integrity sha512-KpELjfwcCDUb9PeigTs2mBJzXUPzAuP2oPcA989He8Rte0+YUAjw1JVedDhuTKPkHjSYzMN3npC9luThGYEKdg==
 
-playwright-chromium@^1.11.0:
+playwright-chromium@1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/playwright-chromium/-/playwright-chromium-1.11.0.tgz#fcd2a86baca011c758288f246a84304453c4ab42"
   integrity sha512-CNV58vXoyItAXOuK9rgyESBmnwVMnQg12TBJEDq1IksJo9m2Gi1maReiMOOJAFduMhicvLGgRsQfdzm44KCcxA==
