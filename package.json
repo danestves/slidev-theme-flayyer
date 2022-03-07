@@ -34,7 +34,7 @@
     "@slidev/theme-default": "^0.6.7"
   },
   "devDependencies": {
-    "@types/node": "^15.0.2",
+    "@types/node": "16.11.26",
     "generate-changelog": "^1.8.0",
     "playwright-chromium": "^1.11.0"
   }
