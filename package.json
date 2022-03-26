@@ -36,6 +36,6 @@
   "devDependencies": {
     "@types/node": "^15.0.2",
     "generate-changelog": "^1.8.0",
-    "playwright-chromium": "^1.11.0"
+    "playwright-chromium": "1.20.1"
   }
 }
